@@ -1,0 +1,20 @@
+.sort-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  justify-content: flex-end;
+}
+
+.sort-label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.sort-select {
+  padding: 6px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background: #fff;
+}
